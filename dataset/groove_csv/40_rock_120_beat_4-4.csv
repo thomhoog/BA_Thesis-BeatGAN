@@ -1,0 +1,49 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Title_t, "Midi Drums"
+1, 0, Instrument_name_t, "Midi Drums"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 9, 56, 14, 23
+1, 0, Tempo, 500000
+1, 0, Note_on_c, 9, 38, 127
+1, 31, Control_c, 9, 4, 74
+1, 88, Note_off_c, 9, 38, 64
+1, 111, Note_on_c, 9, 38, 77
+1, 170, Control_c, 9, 4, 68
+1, 206, Control_c, 9, 4, 63
+1, 208, Note_off_c, 9, 38, 64
+1, 228, Note_on_c, 9, 38, 84
+1, 325, Note_off_c, 9, 38, 64
+1, 352, Note_on_c, 9, 38, 84
+1, 405, Control_c, 9, 4, 73
+1, 449, Note_off_c, 9, 38, 64
+1, 471, Control_c, 9, 4, 78
+1, 478, Note_on_c, 9, 48, 127
+1, 510, Control_c, 9, 4, 81
+1, 575, Note_off_c, 9, 48, 64
+1, 590, Control_c, 9, 4, 85
+1, 594, Note_on_c, 9, 48, 71
+1, 691, Note_off_c, 9, 48, 64
+1, 705, Note_on_c, 9, 48, 101
+1, 801, Note_off_c, 9, 48, 64
+1, 828, Note_on_c, 9, 48, 83
+1, 924, Note_off_c, 9, 48, 64
+1, 939, Note_on_c, 9, 45, 127
+1, 1036, Note_off_c, 9, 45, 64
+1, 1074, Note_on_c, 9, 45, 105
+1, 1171, Note_off_c, 9, 45, 64
+1, 1196, Note_on_c, 9, 45, 104
+1, 1293, Note_off_c, 9, 45, 64
+1, 1447, Note_on_c, 9, 43, 127
+1, 1544, Note_off_c, 9, 43, 64
+1, 1563, Control_c, 9, 4, 90
+1, 1683, Note_on_c, 9, 43, 127
+1, 1740, Control_c, 9, 4, 86
+1, 1780, Note_off_c, 9, 43, 64
+1, 1784, Control_c, 9, 4, 82
+1, 1825, Control_c, 9, 4, 77
+1, 1872, Control_c, 9, 4, 73
+1, 1913, Control_c, 9, 4, 78
+1, 1913, End_track
+0, 0, End_of_file

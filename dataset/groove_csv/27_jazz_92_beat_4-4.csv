@@ -1,0 +1,68 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Title_t, "Midi Drums"
+1, 0, Instrument_name_t, "Brooklyn"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 0, 0, 0, 0
+1, 0, Tempo, 652174
+1, 1, Note_on_c, 9, 36, 60
+1, 8, Note_on_c, 9, 59, 44
+1, 76, Note_off_c, 9, 36, 64
+1, 83, Note_off_c, 9, 59, 64
+1, 166, Note_on_c, 9, 51, 28
+1, 240, Note_off_c, 9, 51, 64
+1, 321, Note_on_c, 9, 51, 30
+1, 396, Note_off_c, 9, 51, 64
+1, 472, Note_on_c, 9, 38, 98
+1, 482, Note_on_c, 9, 51, 79
+1, 546, Note_off_c, 9, 38, 64
+1, 556, Note_off_c, 9, 51, 64
+1, 647, Note_on_c, 9, 51, 33
+1, 722, Note_off_c, 9, 51, 64
+1, 795, Note_on_c, 9, 51, 27
+1, 869, Note_off_c, 9, 51, 64
+1, 954, Note_on_c, 9, 51, 33
+1, 1028, Note_off_c, 9, 51, 64
+1, 1114, Note_on_c, 9, 51, 27
+1, 1188, Note_off_c, 9, 51, 64
+1, 1244, Note_on_c, 9, 51, 36
+1, 1319, Note_off_c, 9, 51, 64
+1, 1419, Note_on_c, 9, 51, 62
+1, 1421, Note_on_c, 9, 38, 73
+1, 1493, Note_off_c, 9, 51, 64
+1, 1495, Note_off_c, 9, 38, 64
+1, 1568, Note_on_c, 9, 51, 35
+1, 1642, Note_off_c, 9, 51, 64
+1, 1725, Note_on_c, 9, 51, 40
+1, 1798, Note_off_c, 9, 51, 64
+1, 1899, Note_on_c, 9, 51, 71
+1, 1974, Note_off_c, 9, 51, 64
+1, 2063, Note_on_c, 9, 51, 13
+1, 2137, Note_off_c, 9, 51, 64
+1, 2220, Note_on_c, 9, 51, 28
+1, 2295, Note_off_c, 9, 51, 64
+1, 2386, Note_on_c, 9, 51, 94
+1, 2460, Note_off_c, 9, 51, 64
+1, 2571, Note_on_c, 9, 51, 40
+1, 2644, Note_on_c, 9, 51, 23
+1, 2644, Note_off_c, 9, 51, 64
+1, 2646, Note_off_c, 9, 51, 64
+1, 2702, Note_on_c, 9, 51, 40
+1, 2718, Note_off_c, 9, 51, 64
+1, 2870, Note_on_c, 9, 51, 127
+1, 2944, Note_off_c, 9, 51, 64
+1, 3057, Note_on_c, 9, 51, 26
+1, 3129, Note_on_c, 9, 51, 38
+1, 3129, Note_off_c, 9, 51, 64
+1, 3131, Note_off_c, 9, 51, 64
+1, 3215, Note_on_c, 9, 51, 41
+1, 3289, Note_off_c, 9, 51, 64
+1, 3372, Note_on_c, 9, 51, 127
+1, 3446, Note_off_c, 9, 51, 64
+1, 3524, Note_on_c, 9, 51, 38
+1, 3598, Note_off_c, 9, 51, 64
+1, 3694, Note_on_c, 9, 51, 32
+1, 3768, Note_off_c, 9, 51, 64
+1, 3768, End_track
+0, 0, End_of_file

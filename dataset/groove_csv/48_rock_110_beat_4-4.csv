@@ -1,0 +1,102 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Title_t, "Midi Drums"
+1, 0, Instrument_name_t, "Brooklyn"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 0, 0, 0, 0
+1, 0, Tempo, 545455
+1, 468, Note_on_c, 9, 51, 127
+1, 470, Note_on_c, 9, 38, 127
+1, 557, Note_off_c, 9, 51, 64
+1, 559, Note_off_c, 9, 38, 64
+1, 697, Note_on_c, 9, 51, 71
+1, 705, Note_on_c, 9, 36, 123
+1, 786, Note_off_c, 9, 51, 64
+1, 794, Note_off_c, 9, 36, 64
+1, 939, Note_on_c, 9, 36, 127
+1, 942, Note_on_c, 9, 51, 63
+1, 1028, Note_off_c, 9, 36, 64
+1, 1030, Note_off_c, 9, 51, 64
+1, 1182, Note_on_c, 9, 51, 38
+1, 1270, Note_off_c, 9, 51, 64
+1, 1403, Note_on_c, 9, 51, 127
+1, 1410, Note_on_c, 9, 38, 127
+1, 1492, Note_off_c, 9, 51, 64
+1, 1499, Note_off_c, 9, 38, 64
+1, 1637, Note_on_c, 9, 51, 46
+1, 1726, Note_off_c, 9, 51, 64
+1, 1899, Note_on_c, 9, 51, 59
+1, 1988, Note_off_c, 9, 51, 64
+1, 2127, Note_on_c, 9, 51, 127
+1, 2128, Note_on_c, 9, 38, 127
+1, 2216, Note_off_c, 9, 38, 64
+1, 2216, Note_off_c, 9, 51, 64
+1, 2372, Note_on_c, 9, 51, 53
+1, 2460, Note_off_c, 9, 51, 64
+1, 2590, Note_on_c, 9, 36, 127
+1, 2593, Note_on_c, 9, 51, 104
+1, 2678, Note_off_c, 9, 36, 64
+1, 2682, Note_off_c, 9, 51, 64
+1, 2832, Note_on_c, 9, 36, 127
+1, 2840, Note_on_c, 9, 51, 98
+1, 2921, Note_off_c, 9, 36, 64
+1, 2928, Note_off_c, 9, 51, 64
+1, 3092, Note_on_c, 9, 51, 48
+1, 3181, Note_off_c, 9, 51, 64
+1, 3335, Note_on_c, 9, 38, 127
+1, 3339, Note_on_c, 9, 51, 127
+1, 3424, Note_off_c, 9, 38, 64
+1, 3427, Note_off_c, 9, 51, 64
+1, 3577, Note_on_c, 9, 51, 60
+1, 3583, Note_on_c, 9, 36, 85
+1, 3665, Note_off_c, 9, 51, 64
+1, 3671, Note_off_c, 9, 36, 64
+1, 3817, Note_on_c, 9, 36, 127
+1, 3822, Note_on_c, 9, 51, 109
+1, 3906, Note_off_c, 9, 36, 64
+1, 3910, Note_off_c, 9, 51, 64
+1, 4087, Note_on_c, 9, 51, 35
+1, 4175, Note_off_c, 9, 51, 64
+1, 4309, Note_on_c, 9, 51, 127
+1, 4310, Note_on_c, 9, 38, 127
+1, 4398, Note_off_c, 9, 38, 64
+1, 4398, Note_off_c, 9, 51, 64
+1, 4547, Note_on_c, 9, 36, 102
+1, 4551, Note_on_c, 9, 51, 70
+1, 4636, Note_off_c, 9, 36, 64
+1, 4639, Note_off_c, 9, 51, 64
+1, 4777, Note_on_c, 9, 36, 127
+1, 4791, Note_on_c, 9, 51, 115
+1, 4865, Note_off_c, 9, 36, 64
+1, 4879, Note_off_c, 9, 51, 64
+1, 5257, Note_on_c, 9, 38, 127
+1, 5257, Note_on_c, 9, 51, 127
+1, 5346, Note_off_c, 9, 38, 64
+1, 5346, Note_off_c, 9, 51, 64
+1, 5490, Note_on_c, 9, 51, 53
+1, 5579, Note_off_c, 9, 51, 64
+1, 5741, Note_on_c, 9, 51, 93
+1, 5830, Note_off_c, 9, 51, 64
+1, 6112, Note_on_c, 9, 38, 84
+1, 6201, Note_off_c, 9, 38, 64
+1, 6239, Note_on_c, 9, 38, 98
+1, 6328, Note_off_c, 9, 38, 64
+1, 6337, Note_on_c, 9, 38, 93
+1, 6425, Note_off_c, 9, 38, 64
+1, 6457, Note_on_c, 9, 38, 122
+1, 6546, Note_off_c, 9, 38, 64
+1, 6565, Note_on_c, 9, 38, 127
+1, 6653, Note_off_c, 9, 38, 64
+1, 6685, Note_on_c, 9, 38, 127
+1, 6774, Note_off_c, 9, 38, 64
+1, 6790, Note_on_c, 9, 38, 127
+1, 6879, Note_off_c, 9, 38, 64
+1, 6919, Note_on_c, 9, 38, 127
+1, 7008, Note_off_c, 9, 38, 64
+1, 7166, Note_on_c, 9, 36, 127
+1, 7176, Note_on_c, 9, 55, 127
+1, 7254, Note_off_c, 9, 36, 64
+1, 7265, Note_off_c, 9, 55, 64
+1, 7265, End_track
+0, 0, End_of_file

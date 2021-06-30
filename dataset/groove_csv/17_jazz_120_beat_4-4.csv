@@ -1,0 +1,35 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Title_t, "Midi Drums"
+1, 0, Instrument_name_t, "Brooklyn"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 9, 56, 14, 23
+1, 0, Tempo, 500000
+1, 949, Note_on_c, 9, 36, 46
+1, 1046, Note_off_c, 9, 36, 64
+1, 1109, Note_on_c, 9, 38, 116
+1, 1116, Control_c, 9, 4, 85
+1, 1205, Note_off_c, 9, 38, 64
+1, 1257, Note_on_c, 9, 38, 95
+1, 1281, Control_c, 9, 4, 75
+1, 1354, Note_off_c, 9, 38, 64
+1, 1360, Control_c, 9, 4, 80
+1, 1404, Control_c, 9, 4, 82
+1, 1413, Note_on_c, 9, 38, 125
+1, 1510, Note_off_c, 9, 38, 64
+1, 1592, Control_c, 9, 4, 90
+1, 1702, Note_on_c, 9, 38, 67
+1, 1799, Note_off_c, 9, 38, 64
+1, 1869, Note_on_c, 9, 36, 81
+1, 1877, Note_on_c, 9, 55, 127
+1, 1966, Note_off_c, 9, 36, 64
+1, 1974, Note_off_c, 9, 55, 64
+1, 2453, Control_c, 9, 4, 85
+1, 2533, Control_c, 9, 4, 81
+1, 2610, Control_c, 9, 4, 77
+1, 2728, Control_c, 9, 4, 82
+1, 2960, Control_c, 9, 4, 86
+1, 3069, Control_c, 9, 4, 90
+1, 3069, End_track
+0, 0, End_of_file
